@@ -1,0 +1,38 @@
+.experiences {
+  .experiences-content {
+    .card {
+      min-width: 300px;
+      max-width: 48%;
+      background-image: var(--cardBG);
+      color: var(--title);
+
+      .card-body {
+        .card-text {
+          color: var(--subTitle);
+        }
+      }
+
+      &:hover {
+        border-color: var(--blue);
+
+        .card-img-top {
+          scale: 1.06;
+        }
+
+        .card-body {
+          .card-title {
+            color: var(--blue);
+          }
+
+          .card-text {
+            color: var(--title);
+          }
+
+          .card-link {
+            color: var(--orange);
+          }
+        }
+      }
+    }
+  }
+}

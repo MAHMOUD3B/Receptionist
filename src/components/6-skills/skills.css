@@ -1,0 +1,13 @@
+.skills {
+  .skills-content {
+    .skill {
+      background-color: var(--bgHeader);
+      border: 1px solid var(--border);
+
+      &:hover {
+        border-color: var(--blue);
+        scale: 1.1;
+      }
+    }
+  }
+}

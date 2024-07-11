@@ -1,0 +1,16 @@
+.languages {
+  .languages-content {
+    > div {
+      background-color: var(--bgHeader);
+      color: var(--title);
+
+      span {
+        color: var(--blue);
+      }
+
+      &:hover {
+        scale: 1.1;
+      }
+    }
+  }
+}
