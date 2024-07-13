@@ -42,7 +42,7 @@ const Experiences = () => {
                 reservation systems such as fidelio and how to deal with guests.
               </p>
               <p className="card-link fw-bold text-end">
-                (Jul 2023 – Sep 2023)
+                (Oct 2023 – Jan 2023)
               </p>
             </div>
           </div>

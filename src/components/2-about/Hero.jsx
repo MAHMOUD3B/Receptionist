@@ -20,12 +20,15 @@ const Hero = () => {
             <i className="fa fa-certificate"></i>
           </span>
         </div>
-        <h1 className="title my-3">Front Desk Receptionist</h1>
+        <h1 className="title my-3">Reservations Agent</h1>
         <p className="subtitle">
-          Receptionist with over 1 years of experience in the hospitality
-          industry, adept at managing reservations and providing exceptional
-          customer service. Strong communication and problem-solving skills,
-          able to work under pressure and meet guest needs efficiently.
+          Experienced Hotel Reservation Agent with over one year in the
+          hospitality industry.
+          <br />
+          Possesses excellent communication skills and the ability to
+          efficiently handle customer interactions. <br />
+          Proficient in using hotel management systems and modern technology to
+          ensure high-quality service and guest satisfaction.
         </p>
       </div>
       <div className="image d-none d-lg-flex align-items-center justify-content-end">
